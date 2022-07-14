@@ -8,7 +8,7 @@ The first step in doing this is to create projects corresponding to each of the 
 
 We have created three projectes in total: `cp4i-scenario1-api-management`, `cp4i-scenario1-app-integration` and `cp4i-scenario1-event-stream`. 
 
-Add the entitlement key that you have obtained in the previous section into each of these three projects. Follow the same steps as [here](https://github.ibm.com/ASEANZK-CP4I-Practicum/scenario1/blob/main/config/Topic5.md#515-add-entitlement-keys).  
+Add the entitlement key that you have obtained in the previous section into each of these three projects. Follow the same steps as [here](https://github.com/ANZ-CP4I-Practicum/scenario1/blob/main/config/Topic5.md#515-add-entitlement-keys).  
 
 Now, we have to use the Platform Navigator that we have installed in Section 5.1.7. Follow [this link](https://www.ibm.com/docs/en/cloud-paks/cp-integration/2021.4?topic=installing-deploying-cloud-pak-integration-using-openshift-console#deployment-using-the-openshift-web-console/logging-in) to learn how to log in to your Cloud Pak for Integration instance (IBM Cloud Pak Platform UI). One key step to follow is to get the initial Admin password - this is the only way you will be able to access the UI. 
 

@@ -149,7 +149,7 @@ managing App Connect in container environment.
 
 16 After testing, you can go back to see the result that the message is
 sent to the specific topic in EventStrem that you define in app connect.
-Carry on the EventStream part from [this page](https://github.ibm.com/ASEANZK-CP4I-Practicum/scenario1/tree/main/Solution%20build/IBM%20Event%20Streams)  under the topic Check the message in the Topic in EventStrem Cluster
+Carry on the EventStream part from [this page](https://github.com/ANZ-CP4I-Practicum/scenario1/tree/main/Solution%20build/IBM%20Event%20Streams)  under the topic Check the message in the Topic in EventStrem Cluster
 
       
       

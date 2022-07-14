@@ -87,7 +87,7 @@ You already have created a topic in Event Strem , and now you need to build mess
 
 ![project](img/14-create%20project.jpeg)
 
-3) Before working on the message flow, you need to create a policy project. Check [this link](https://github.ibm.com/ASEANZK-CP4I-Practicum/scenario1/tree/main/Solution%20build/IBM%20App%20Connect/) for App Connect Section and learn how to 
+3) Before working on the message flow, you need to create a policy project. Check [this link](https://github.com/ANZ-CP4I-Practicum/scenario1/tree/main/Solution%20build/IBM%20App%20Connect/) for App Connect Section and learn how to 
 create a policy project and some configurations that you need to know 
 
 
